@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainActivity">
+        <State />
+      </entry>
+      <entry key="MainActivityTest">
+        <State />
+      </entry>
+      <entry key="MainActivityTest (1)">
+        <State />
+      </entry>
+      <entry key="MainActivityTest1">
+        <State />
+      </entry>
+      <entry key="SQLiteActivity">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.calculator">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Admin\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-01T03:13:13.375623800Z" />
+        </State>
+      </entry>
+      <entry key="app.clock">
+        <State />
+      </entry>
+      <entry key="app.expensify">
+        <State />
+      </entry>
+      <entry key="app.health">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Admin\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-12T04:36:19.400768700Z" />
+        </State>
+      </entry>
+      <entry key="app.music">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Admin\.android\avd\Pixel_8_Pro_API_31.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-11T08:05:14.228193500Z" />
+        </State>
+      </entry>
+      <entry key="app.note">
+        <State />
+      </entry>
+      <entry key="app.quiz">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Admin\.android\avd\Pixel_3a_API_34_extension_level_7_x86_64.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-11T04:47:45.011806200Z" />
+        </State>
+      </entry>
+      <entry key="app.unitconverter">
+        <State />
+      </entry>
+      <entry key="app.vocab">
+        <State />
+      </entry>
+      <entry key="app.weather">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\Admin\.android\avd\Pixel_8_Pro_API_29.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-12T12:34:54.922984800Z" />
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>
